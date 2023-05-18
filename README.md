@@ -1,4 +1,4 @@
-# tinytsh.c - A tiny shell program with job control written in C.
+# tinytsh.c - A tiny shell program with job control.
 Written as part of CMU's Computer Systems Course. Received a 100% grade.
 ## Info on shells
 A shell a program that takes commands from the keyboard and gives them to the operating system to perform. It continuously read and evaluates command line arguments in a loop.
